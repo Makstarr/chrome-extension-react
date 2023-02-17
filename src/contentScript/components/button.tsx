@@ -1,6 +1,5 @@
 import styled from 'styled-components'
 
-
 const GreenButton = styled.button`
   background-color: #27ae60;
   color: #fff;

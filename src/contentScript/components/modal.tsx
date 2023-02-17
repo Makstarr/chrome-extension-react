@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import {useState} from 'react';
 import styled from 'styled-components'
 
 export const Modal = ({onClose, selectedText}) => {
@@ -15,10 +15,9 @@ export const Modal = ({onClose, selectedText}) => {
 
     function handleSubmit(event) {
         event.preventDefault();
-        if(input1Value && input2Value) {
-            alert(input1Value + input2Value)
-        }
-        else {
+        if (input1Value && input2Value) {
+            alert(input1Value + ' ' + input2Value)
+        } else {
             alert('enter the data')
         }
         // handle form submission here
@@ -30,16 +29,16 @@ export const Modal = ({onClose, selectedText}) => {
                 <h2>Modal Window</h2>
                 <form onSubmit={handleSubmit}>
                     <label>
-                        Input 1:
+                        Input text:
                         <input type="text" value={input1Value} onChange={handleInput1Change}/>
                     </label>
                     <br/>
                     <label>
-                        Input 2:
+                        Selected text:
                         <input type="text" value={input2Value} onChange={handleInput2Change}/>
                     </label>
                     <br/>
-                    <button type="submit">Submit</button>
+                    <button type="submit">Combine two inputs</button>
                 </form>
             </CustomModal>
         </CustomModalContainer>

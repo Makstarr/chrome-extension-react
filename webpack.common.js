@@ -2,7 +2,6 @@ const path = require('path');
 const CopyPlugin = require('copy-webpack-plugin');
 const HtmlPlugin = require('html-webpack-plugin');
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
-const tailwindcss = require('tailwindcss')
 const autoprefixer = require('autoprefixer')
 
 module.exports = {
@@ -11,7 +10,6 @@ module.exports = {
         options: path.resolve('src/options/index.tsx'),
         background: path.resolve('src/background/background.ts'),
         contentScript: path.resolve('src/contentScript/index.tsx'),
-        newTab: path.resolve('src/tabs/index.tsx'),
     },
     module: {
         rules: [
@@ -29,16 +27,7 @@ module.exports = {
                         options: {
                             importLoaders: 1,
                         },
-                    },
-                    {
-                        loader: 'postcss-loader', // postcss loader needed for tailwindcss
-                        options: {
-                            postcssOptions: {
-                                ident: 'postcss',
-                                plugins: [tailwindcss, autoprefixer],
-                            },
-                        },
-                    },
+                    }
                 ],
             },
             {
@@ -59,8 +48,7 @@ module.exports = {
         }),
         ...getHtmlPlugins([
             'popup',
-            'options',
-            'newTab'
+            'options'
         ])
     ],
     resolve: {

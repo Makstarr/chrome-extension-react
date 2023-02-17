@@ -1,6 +1,4 @@
-import React from "react";
-import { createRoot } from "react-dom/client";
-import '../assets/tailwind.css'
+import {createRoot} from "react-dom/client";
 import Options from "./options";
 
 function init() {
@@ -10,8 +8,7 @@ function init() {
         throw new Error("Can not find AppContainer");
     }
     const root = createRoot(appContainer)
-    console.log(appContainer)
-    root.render(<Options />);
+    root.render(<Options/>);
 }
 
 init();
