@@ -1324,3 +1324,765 @@ Info 232  response:
     {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":113,"success":true,"body":[]}
 Info 233  response:
     {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":114,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 234  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":115,"success":true,"body":[]}
+Info 235  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":116,"success":true,"body":[]}
+Info 236  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":117,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 237  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":118,"success":true,"body":[]}
+Info 238  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":119,"success":true,"body":[]}
+Info 239  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":120,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 240  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":121,"success":true,"body":[]}
+Info 241  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":122,"success":true,"body":[]}
+Info 242  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":123,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 243  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":124,"success":true,"body":[]}
+Info 244  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":125,"success":true,"body":[]}
+Info 245  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":126,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 246  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":127,"success":true,"body":[]}
+Info 247  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":128,"success":true,"body":[]}
+Info 248  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":129,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 249  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":130,"success":true,"body":[]}
+Info 250  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":131,"success":true,"body":[]}
+Info 251  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":132,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 252  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":133,"success":true,"body":[]}
+Info 253  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":134,"success":true,"body":[]}
+Info 254  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":135,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 255  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":136,"success":true,"body":[]}
+Info 256  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":137,"success":true,"body":[]}
+Info 257  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":138,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 258  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":139,"success":true,"body":[]}
+Info 259  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":140,"success":true,"body":[]}
+Info 260  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":141,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 261  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":142,"success":true,"body":[]}
+Info 262  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":143,"success":true,"body":[]}
+Info 263  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":144,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 264  reload projects.
+Info 265  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json
+Info 266  Scheduled: *ensureProjectForOpenFiles*
+Info 267  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 268  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 269  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 270  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 271  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 272  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 273  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 274  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 275  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 276  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 277  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 278  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 279  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 280  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 281  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 282  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 283  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 284  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 285  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 286  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 287  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 288  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 289  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 290  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 291  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 292  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 293  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 294  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 295  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 296  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 297  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 298  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 299  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 300  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 301  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 302  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 303  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 304  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 305  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 306  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 307  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 308  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 309  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 310  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 311  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 312  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 313  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 314  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 315  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 316  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 317  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 318  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 319  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 320  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 321  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 322  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 323  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 324  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 325  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 326  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 327  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 328  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 329  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 330  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 331  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 332  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 333  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 334  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 335  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 336  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 337  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 338  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 339  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 340  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 341  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 342  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 343  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 344  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 345  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 346  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 347  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 348  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 349  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 350  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 351  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 352  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 353  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 354  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 355  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 356  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 357  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 358  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 359  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 360  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 361  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 362  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 363  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 364  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 365  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 366  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 367  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 368  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 369  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 370  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 371  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 372  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 373  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 374  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 375  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 376  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 377  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 378  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 379  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 380  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 381  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 382  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 383  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 384  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 385  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 386  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 387  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 388  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 389  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 390  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 391  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 392  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 393  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 394  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 395  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 396  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 397  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 398  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 399  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 400  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 401  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 402  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 403  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 404  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 405  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 406  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 407  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 408  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 409  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 410  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 411  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 412  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 413  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 414  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 415  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 416  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 417  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 418  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 419  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 420  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 421  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 422  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 423  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 424  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 425  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 426  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 427  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 428  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 429  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 430  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 431  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 432  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 433  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 434  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 435  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 436  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 437  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 438  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 439  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 440  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 441  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 442  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 443  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 444  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 445  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 446  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 447  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 448  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 449  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 450  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 451  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 452  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 453  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 454  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 455  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 456  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 457  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 458  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 459  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 460  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 461  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 462  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 463  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 464  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 465  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 466  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 467  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 468  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 469  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 470  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 471  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 472  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 473  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 474  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 475  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 476  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 477  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 478  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 479  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 480  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 481  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 482  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 483  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 484  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 485  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 486  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 487  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 488  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 489  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 490  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 491  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 492  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 493  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 494  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 495  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 496  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 497  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 498  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 499  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 500  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 501  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 502  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 503  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 504  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 505  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 506  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 507  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 508  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 509  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 510  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 511  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 512  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 513  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 514  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 515  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 516  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 517  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 518  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 519  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 520  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 521  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 522  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 523  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 524  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 525  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 526  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 527  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 528  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 529  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 530  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 531  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 532  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 533  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 534  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 535  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 536  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 537  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 538  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 539  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 540  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 541  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 542  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 543  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 544  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 545  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 546  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 547  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 548  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 549  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 550  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 551  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 552  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 553  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 554  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 555  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 556  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 557  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 558  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 559  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 560  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 561  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 562  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 563  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 564  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 565  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 566  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 567  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 568  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 569  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 570  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 571  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 572  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 573  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 574  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 575  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 576  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 577  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 578  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 579  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 580  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 581  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 582  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 583  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 584  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 585  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 586  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 587  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 588  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 589  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 590  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 591  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 592  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 593  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 594  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 595  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 596  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 597  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 598  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 599  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 600  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 601  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 602  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 603  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 604  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 605  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 606  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 607  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 608  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 609  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 610  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 611  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 612  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 613  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 614  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 615  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 616  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 617  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 618  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 619  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 620  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 621  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 622  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 623  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 624  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 625  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 626  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 627  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 628  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 629  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 630  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 631  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 632  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 633  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 634  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 635  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 636  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 637  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 638  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 639  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 640  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 641  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 642  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 643  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 644  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 645  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 646  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 647  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 648  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 649  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 650  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 651  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 652  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 653  Scheduled: /Users/maks/chrome-extension-react/tsconfig.json, Cancelled earlier one
+Info 654  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 655  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 656  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 657  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 658  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 659  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 660  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 661  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 662  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 663  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 664  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 665  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 666  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 667  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 668  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 669  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 670  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 671  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 672  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 673  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 674  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 675  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 676  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 677  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 678  Scheduled: *ensureProjectForOpenFiles*, Cancelled earlier one
+Info 679  Search path: /Users/maks/chrome-extension-react/src/background
+Info 680  For info: /Users/maks/chrome-extension-react/src/background/background.ts :: Config file name: /Users/maks/chrome-extension-react/tsconfig.json
+Info 681  DirectoryWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/src 1 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: Failed Lookup Locations
+Info 682  Elapsed:: 0.03700000047683716ms DirectoryWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/src 1 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: Failed Lookup Locations
+Info 683  DirectoryWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules 1 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: Failed Lookup Locations
+Info 684  Elapsed:: 0.0026660002768039703ms DirectoryWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules 1 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: Failed Lookup Locations
+Info 685  DirectoryWatcher:: Close:: WatchInfo: /Users/maks/chrome-react-boilerplate/src/contentScript/components/node_modules 1 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: Failed Lookup Locations
+Info 686  Elapsed:: 0.11808300018310547ms DirectoryWatcher:: Close:: WatchInfo: /Users/maks/chrome-react-boilerplate/src/contentScript/components/node_modules 1 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: Failed Lookup Locations
+Info 687  DirectoryWatcher:: Close:: WatchInfo: /Users/maks/chrome-react-boilerplate/src/contentScript/node_modules 1 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: Failed Lookup Locations
+Info 688  Elapsed:: 0.009417001157999039ms DirectoryWatcher:: Close:: WatchInfo: /Users/maks/chrome-react-boilerplate/src/contentScript/node_modules 1 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: Failed Lookup Locations
+Info 689  DirectoryWatcher:: Close:: WatchInfo: /Users/maks/chrome-react-boilerplate/src/node_modules 1 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: Failed Lookup Locations
+Info 690  Elapsed:: 0.009833000600337982ms DirectoryWatcher:: Close:: WatchInfo: /Users/maks/chrome-react-boilerplate/src/node_modules 1 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: Failed Lookup Locations
+Info 691  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/react/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 692  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/semver/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 693  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/react/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 694  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-react-boilerplate/node_modules/react/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 695  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-react-boilerplate/node_modules/@types/react/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 696  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/csstype/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 697  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-react-boilerplate/node_modules/csstype/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 698  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/prop-types/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 699  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/prop-types/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 700  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-react-boilerplate/node_modules/prop-types/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 701  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-react-boilerplate/node_modules/@types/prop-types/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 702  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/scheduler/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 703  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/scheduler/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 704  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-react-boilerplate/node_modules/scheduler/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 705  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-react-boilerplate/node_modules/@types/scheduler/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 706  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-react-boilerplate/node_modules/styled-components/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 707  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-react-boilerplate/node_modules/@types/styled-components/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 708  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/styled-components/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 709  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/styled-components/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 710  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-react-boilerplate/node_modules/hoist-non-react-statics/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 711  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-react-boilerplate/node_modules/@types/hoist-non-react-statics/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 712  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/hoist-non-react-statics/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 713  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/react-dom/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 714  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/react-dom/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 715  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/chrome/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 716  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/eslint/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 717  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/eslint/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 718  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/eslint-scope/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 719  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/estree/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 720  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/filesystem/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 721  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/filewriter/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 722  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/glob/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 723  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/har-format/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 724  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/html-minifier-terser/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 725  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/json-schema/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 726  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/json5/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 727  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/minimatch/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 728  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/minimatch/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 729  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/node/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 730  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/parse-json/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 731  FileWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/events/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 732  FileWatcher:: Close:: WatchInfo: /Users/maks/node_modules/events/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 733  DirectoryWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types 1 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: Type roots
+Info 734  Elapsed:: 0.3094159997999668ms DirectoryWatcher:: Close:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types 1 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: Type roots
+Info 735  Reloading configured project /Users/maks/chrome-extension-react/tsconfig.json
+Info 736  event:
+    {"seq":0,"type":"event","event":"projectLoadingStart","body":{"projectName":"/Users/maks/chrome-extension-react/tsconfig.json","reason":"User requested reload projects"}}
+Info 737  Config: /Users/maks/chrome-extension-react/tsconfig.json : {
+ "rootNames": [
+  "/Users/maks/chrome-extension-react/src/background/background.ts",
+  "/Users/maks/chrome-extension-react/src/contentScript/contentScript.tsx",
+  "/Users/maks/chrome-extension-react/src/contentScript/index.tsx",
+  "/Users/maks/chrome-extension-react/src/contentScript/components/button.tsx",
+  "/Users/maks/chrome-extension-react/src/contentScript/components/modal.tsx",
+  "/Users/maks/chrome-extension-react/src/options/index.tsx",
+  "/Users/maks/chrome-extension-react/src/options/options.tsx",
+  "/Users/maks/chrome-extension-react/src/popup/index.tsx",
+  "/Users/maks/chrome-extension-react/src/popup/popup.tsx"
+ ],
+ "options": {
+  "target": 1,
+  "baseUrl": "/Users/maks",
+  "lib": [
+   "lib.dom.d.ts",
+   "lib.dom.iterable.d.ts",
+   "lib.esnext.d.ts"
+  ],
+  "allowJs": true,
+  "skipLibCheck": true,
+  "esModuleInterop": true,
+  "allowSyntheticDefaultImports": true,
+  "strict": true,
+  "forceConsistentCasingInFileNames": true,
+  "noFallthroughCasesInSwitch": true,
+  "module": 99,
+  "moduleResolution": 2,
+  "resolveJsonModule": true,
+  "noEmit": true,
+  "jsx": 4,
+  "configFilePath": "/Users/maks/chrome-extension-react/tsconfig.json"
+ }
+}
+Info 738  Starting updateGraphWorker: Project: /Users/maks/chrome-extension-react/tsconfig.json
+Info 739  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/react/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 740  DirectoryWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/src 1 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: Failed Lookup Locations
+Info 741  Elapsed:: 0.008042000234127045ms DirectoryWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/src 1 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: Failed Lookup Locations
+Info 742  DirectoryWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules 1 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: Failed Lookup Locations
+Info 743  Elapsed:: 0.008791999891400337ms DirectoryWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules 1 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: Failed Lookup Locations
+Info 744  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/semver/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 745  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/react/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 746  DirectoryWatcher:: Added:: WatchInfo: /Users/maks/chrome-react-boilerplate/src/contentScript/components/node_modules 1 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: Failed Lookup Locations
+Info 747  Elapsed:: 0.048125000670552254ms DirectoryWatcher:: Added:: WatchInfo: /Users/maks/chrome-react-boilerplate/src/contentScript/components/node_modules 1 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: Failed Lookup Locations
+Info 748  DirectoryWatcher:: Added:: WatchInfo: /Users/maks/chrome-react-boilerplate/src/contentScript/node_modules 1 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: Failed Lookup Locations
+Info 749  Elapsed:: 0.023500001057982445ms DirectoryWatcher:: Added:: WatchInfo: /Users/maks/chrome-react-boilerplate/src/contentScript/node_modules 1 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: Failed Lookup Locations
+Info 750  DirectoryWatcher:: Added:: WatchInfo: /Users/maks/chrome-react-boilerplate/src/node_modules 1 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: Failed Lookup Locations
+Info 751  Elapsed:: 0.0558329988270998ms DirectoryWatcher:: Added:: WatchInfo: /Users/maks/chrome-react-boilerplate/src/node_modules 1 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: Failed Lookup Locations
+Info 752  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-react-boilerplate/node_modules/react/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 753  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-react-boilerplate/node_modules/@types/react/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 754  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/csstype/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 755  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-react-boilerplate/node_modules/csstype/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 756  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/prop-types/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 757  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/prop-types/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 758  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-react-boilerplate/node_modules/prop-types/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 759  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-react-boilerplate/node_modules/@types/prop-types/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 760  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/scheduler/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 761  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/scheduler/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 762  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-react-boilerplate/node_modules/scheduler/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 763  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-react-boilerplate/node_modules/@types/scheduler/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 764  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-react-boilerplate/node_modules/styled-components/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 765  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-react-boilerplate/node_modules/@types/styled-components/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 766  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/styled-components/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 767  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/styled-components/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 768  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-react-boilerplate/node_modules/hoist-non-react-statics/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 769  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-react-boilerplate/node_modules/@types/hoist-non-react-statics/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 770  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/hoist-non-react-statics/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 771  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/react-dom/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 772  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/react-dom/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 773  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/chrome/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 774  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/eslint/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 775  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/eslint/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 776  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/eslint-scope/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 777  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/estree/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 778  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/filesystem/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 779  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/filewriter/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 780  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/glob/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 781  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/har-format/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 782  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/html-minifier-terser/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 783  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/json-schema/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 784  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/json5/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 785  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/minimatch/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 786  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/minimatch/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 787  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/node/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 788  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types/parse-json/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 789  FileWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/events/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 790  FileWatcher:: Added:: WatchInfo: /Users/maks/node_modules/events/package.json 2000 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: File location affecting resolution
+Info 791  DirectoryWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types 1 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: Type roots
+Info 792  Elapsed:: 0.07154100015759468ms DirectoryWatcher:: Added:: WatchInfo: /Users/maks/chrome-extension-react/node_modules/@types 1 undefined Project: /Users/maks/chrome-extension-react/tsconfig.json WatchType: Type roots
+Info 793  Finishing updateGraphWorker: Project: /Users/maks/chrome-extension-react/tsconfig.json Version: 8 structureChanged: true structureIsReused:: Not Elapsed: 57.836958998814225ms
+Info 794  Different program with same set of files
+Info 795  event:
+    {"seq":0,"type":"event","event":"projectLoadingFinish","body":{"projectName":"/Users/maks/chrome-extension-react/tsconfig.json"}}
+Info 796  event:
+    {"seq":0,"type":"event","event":"configFileDiag","body":{"triggerFile":"/Users/maks/chrome-extension-react/tsconfig.json","configFile":"/Users/maks/chrome-extension-react/tsconfig.json","diagnostics":[]}}
+Info 797  Before ensureProjectForOpenFiles:
+Info 798  Project '/Users/maks/chrome-extension-react/tsconfig.json' (Configured)
+	Files (196)
+
+-----------------------------------------------
+Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+	Files (29)
+
+-----------------------------------------------
+Open files: 
+	FileName: /Users/maks/chrome-extension-react/src/background/background.ts ProjectRootPath: undefined
+		Projects: /Users/maks/chrome-extension-react/tsconfig.json
+Info 799  After ensureProjectForOpenFiles:
+Info 800  Project '/Users/maks/chrome-extension-react/tsconfig.json' (Configured)
+	Files (196)
+
+-----------------------------------------------
+Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+	Files (29)
+
+-----------------------------------------------
+Open files: 
+	FileName: /Users/maks/chrome-extension-react/src/background/background.ts ProjectRootPath: undefined
+		Projects: /Users/maks/chrome-extension-react/tsconfig.json
+Info 801  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":146,"success":true,"body":[]}
+Info 802  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":147,"success":true,"body":[]}
+Info 803  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":148,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 804  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":149,"success":true,"body":[]}
+Info 805  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":150,"success":true,"body":[]}
+Info 806  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":151,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 807  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":152,"success":true,"body":[]}
+Info 808  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":153,"success":true,"body":[]}
+Info 809  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":154,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 810  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":155,"success":true,"body":[]}
+Info 811  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":156,"success":true,"body":[]}
+Info 812  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":157,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 813  Starting updateGraphWorker: Project: /Users/maks/chrome-extension-react/tsconfig.json
+Info 814  Finishing updateGraphWorker: Project: /Users/maks/chrome-extension-react/tsconfig.json Version: 9 structureChanged: false structureIsReused:: Completely Elapsed: 6.791249999776483ms
+Info 815  Different program with same set of files
+Info 816  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":159,"success":true,"performanceData":{"updateGraphDurationMs":6.791249999776483},"body":[]}
+Info 817  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":160,"success":true,"body":[]}
+Info 818  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":161,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 819  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":162,"success":true,"body":[]}
+Info 820  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":163,"success":true,"body":[]}
+Info 821  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":164,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 822  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":165,"success":true,"body":[]}
+Info 823  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":166,"success":true,"body":[]}
+Info 824  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":167,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 825  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":168,"success":true,"body":[]}
+Info 826  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":169,"success":true,"body":[]}
+Info 827  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":170,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 828  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":171,"success":true,"body":[]}
+Info 829  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":172,"success":true,"body":[]}
+Info 830  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":173,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 831  Starting updateGraphWorker: Project: /Users/maks/chrome-extension-react/tsconfig.json
+Info 832  Finishing updateGraphWorker: Project: /Users/maks/chrome-extension-react/tsconfig.json Version: 10 structureChanged: false structureIsReused:: Completely Elapsed: 11.309040999040008ms
+Info 833  Different program with same set of files
+Info 834  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":175,"success":true,"performanceData":{"updateGraphDurationMs":11.309040999040008},"body":[]}
+Info 835  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":176,"success":true,"body":[]}
+Info 836  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":177,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 837  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":178,"success":true,"body":[]}
+Info 838  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":179,"success":true,"body":[]}
+Info 839  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":180,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 840  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":181,"success":true,"body":[]}
+Info 841  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":182,"success":true,"body":[]}
+Info 842  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":183,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 843  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":184,"success":true,"body":[]}
+Info 844  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":185,"success":true,"body":[]}
+Info 845  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":186,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 846  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":187,"success":true,"body":[]}
+Info 847  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":188,"success":true,"body":[]}
+Info 848  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":189,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 849  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":190,"success":true,"body":[]}
+Info 850  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":191,"success":true,"body":[]}
+Info 851  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":192,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 852  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":193,"success":true,"body":[]}
+Info 853  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":194,"success":true,"body":[]}
+Info 854  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":195,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
+Info 855  response:
+    {"seq":0,"type":"response","command":"semanticDiagnosticsSync","request_seq":196,"success":true,"body":[]}
+Info 856  response:
+    {"seq":0,"type":"response","command":"syntacticDiagnosticsSync","request_seq":197,"success":true,"body":[]}
+Info 857  response:
+    {"seq":0,"type":"response","command":"suggestionDiagnosticsSync","request_seq":198,"success":true,"body":[{"start":{"line":1,"offset":44},"end":{"line":1,"offset":50},"text":"'sender' is declared but its value is never read.","code":6133,"category":"suggestion","reportsUnnecessary":true}]}
