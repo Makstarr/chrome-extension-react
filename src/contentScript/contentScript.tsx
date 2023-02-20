@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 
-import { Button } from 'chrome-react-boilerplate/src/contentScript/components/button';
-import { Modal } from 'chrome-react-boilerplate/src/contentScript/components/modal';
+import { Button } from 'src/contentScript/components/button';
+import { Modal } from 'src/contentScript/components/modal';
 
 export default () => {
   const [selectedText, setSelectedText] = useState('');

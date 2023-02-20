@@ -1,13 +1,18 @@
 {
   "root": true,
   "env": {
-    "webextensions": true
+    "webextensions": true,
+    "browser": true,
+    "node": true
   },
   "extends": [
-    "airbnb",
-    "airbnb/hooks"
+    "eslint:recommended",
+    "plugin:@typescript-eslint/recommended"
   ],
   "ignorePatterns": [
+    "webpack.common.js",
+    "webpack.prod.js",
+    "webpack.dev.js",
     "*.css",
     "*.svg"
   ],
