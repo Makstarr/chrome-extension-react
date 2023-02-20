@@ -8,7 +8,12 @@
     "default_title": "React Boilerplate",
     "default_icon": "icon.png"
   },
-  "permissions": ["bookmarks", "storage", "identity"],
+  "permissions": [
+    "bookmarks",
+    "storage",
+    "identity",
+    "contextMenus"
+  ],
   "icons": {
     "16": "icon.png",
     "48": "icon.png",
@@ -20,8 +25,12 @@
   },
   "content_scripts": [
     {
-      "matches": ["<all_urls>"],
-      "js": ["contentScript.js"]
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "contentScript.js"
+      ]
     }
   ]
 }

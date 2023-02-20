@@ -14,11 +14,17 @@ export default () => {
         setSelectedText(text);
       }
     };
+    const handleContextMenuClick = (text: string) => {
+      setSelectedText(text);
+      setIsModalVisible(true);
+    };
 
     window.addEventListener('mouseup', handleMouseUp);
+    chrome.runtime.onMessage.addListener(handleContextMenuClick);
 
     return () => {
       window.removeEventListener('mouseup', handleMouseUp);
+      chrome.runtime.onMessage.removeListener(handleContextMenuClick);
     };
   }, []);
 
