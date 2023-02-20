@@ -1,49 +1,43 @@
-import {useState} from 'react';
-import styled from 'styled-components'
+import React, { useState } from 'react';
 
-export const Modal = ({onClose, selectedText}) => {
-    const [input1Value, setInput1Value] = useState("");
-    const [input2Value, setInput2Value] = useState(selectedText);
+import styled from 'styled-components';
 
-    function handleInput1Change(event) {
-        setInput1Value(event.target.value);
-    }
-
-    function handleInput2Change(event) {
-        setInput2Value(event.target.value);
-    }
-
-    function handleSubmit(event) {
-        event.preventDefault();
-        if (input1Value && input2Value) {
-            alert(input1Value + ' ' + input2Value)
-        } else {
-            alert('enter the data')
-        }
-        // handle form submission here
-    }
-
-    return (
-        <CustomModalContainer className="modal-background" onClick={onClose}>
-            <CustomModal className="modal-content" onClick={(event) => event.stopPropagation()}>
-                <h2>Modal Window</h2>
-                <form onSubmit={handleSubmit}>
-                    <label>
-                        Input text:
-                        <input type="text" value={input1Value} onChange={handleInput1Change}/>
-                    </label>
-                    <br/>
-                    <label>
-                        Selected text:
-                        <input type="text" value={input2Value} onChange={handleInput2Change}/>
-                    </label>
-                    <br/>
-                    <button type="submit">Combine two inputs</button>
-                </form>
-            </CustomModal>
-        </CustomModalContainer>
-    );
+interface TProps {
+  onClose: () => void;
+  selectedText: string;
 }
+
+export const Modal = ({ onClose, selectedText }: TProps) => {
+  const [editedSelectedText, setEditedSelectedText] = useState(selectedText);
+
+  function handleSubmit(event: React.FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+  }
+
+  return (
+    <CustomModalContainer className="modal-background" onClick={onClose}>
+      <CustomModal
+        className="modal-content"
+        onClick={(event) => event.stopPropagation()}
+      >
+        <h2>Modal Window</h2>
+        <form onSubmit={handleSubmit}>
+          <label>
+            Selected text:
+            <input
+              type="text"
+              value={editedSelectedText}
+              onChange={(e) => {
+                setEditedSelectedText(e.target.value);
+              }}
+            />
+          </label>
+          <button type="submit">Submit</button>
+        </form>
+      </CustomModal>
+    </CustomModalContainer>
+  );
+};
 
 export default Modal;
 
@@ -68,50 +62,4 @@ const CustomModal = styled.div`
   max-width: 480px;
   width: 100%;
   text-align: center;
-
-  h2 {
-    margin-top: 0;
-  }
-
-  form {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-
-    label {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      margin-bottom: 16px;
-      width: 100%;
-
-      input {
-        border: none;
-        border-radius: 4px;
-        padding: 8px 16px;
-        width: 100%;
-      }
-
-      span {
-        font-size: 12px;
-        margin-top: 8px;
-        color: #888;
-      }
-    }
-
-    button {
-      background-color: #0077cc;
-      border: none;
-      border-radius: 4px;
-      color: #fff;
-      font-size: 16px;
-      font-weight: 600;
-      padding: 8px 16px;
-      transition: all 0.2s ease;
-
-      &:hover {
-        background-color: #005499;
-      }
-    }
-
-  }`
+`;

@@ -1,28 +1,45 @@
-import {Button} from './components/button'
-import {Modal} from './components/modal'
-import {useEffect, useState} from "react";
+import { useEffect, useState } from 'react';
+
+import { Button } from './components/button';
+import { Modal } from './components/modal';
 
 export default () => {
-    const [selectedText, setSelectedText] = useState("");
-    const [showModal, setShowModal] = useState(false);
+  const [selectedText, setSelectedText] = useState('');
+  const [isModalVisible, setIsModalVisible] = useState(false);
 
-    useEffect(() => {
-        function handleMouseUp(event) {
-            if (event.target.id !== 'my-button') {
-                const text = window.getSelection().toString();
-                setSelectedText(text);
-            }
-        }
+  useEffect(() => {
+    const handleMouseUp = (event: MouseEvent) => {
+      if ((event.target as Element).id !== 'my-button') {
+        const text = window?.getSelection()?.toString() ?? '';
+        setSelectedText(text);
+      }
+    };
 
-        window.addEventListener("mouseup", handleMouseUp);
+    window.addEventListener('mouseup', handleMouseUp);
 
-        return () => {
-            window.removeEventListener("mouseup", handleMouseUp);
-        };
-    }, []);
+    return () => {
+      window.removeEventListener('mouseup', handleMouseUp);
+    };
+  }, []);
 
-    return <>
-        {selectedText && <Button id={'my-button'} onClick={() => setShowModal(true)}/>}
-        {showModal && <Modal selectedText={selectedText} onClose={() => setShowModal(false)}/>}
+  return (
+    <>
+      {selectedText && (
+        <Button
+          id={'my-button'}
+          onClick={() => {
+            setIsModalVisible(true);
+          }}
+        />
+      )}
+      {isModalVisible && (
+        <Modal
+          selectedText={selectedText}
+          onClose={() => {
+            setIsModalVisible(false);
+          }}
+        />
+      )}
     </>
-}
+  );
+};

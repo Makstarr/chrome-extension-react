@@ -1,0 +1,30 @@
+{
+  "root": true,
+  "extends": [
+    "airbnb",
+    "airbnb/hooks"
+  ],
+  "ignorePatterns": [
+    "*.css",
+    "*.svg"
+  ],
+  "settings": {
+    "node": {
+      "paths": [
+        "src"
+      ],
+      "extensions": [
+        ".js",
+        ".jsx",
+        ".ts",
+        ".tsx"
+      ]
+    }
+  },
+  "rules": {
+    "quotes": [
+      "error",
+      "single"
+    ]
+  }
+}

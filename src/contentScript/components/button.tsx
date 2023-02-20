@@ -1,4 +1,10 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
+
+export const Button = ({
+  ...rest
+}: React.ButtonHTMLAttributes<HTMLButtonElement>) => {
+  return <GreenButton {...rest}>Click me!</GreenButton>;
+};
 
 const GreenButton = styled.button`
   background-color: #27ae60;
@@ -14,9 +20,3 @@ const GreenButton = styled.button`
   right: 24px;
   z-index: 999;
 `;
-
-export const Button = ({onClick, ...rest}) => {
-    return (
-        <GreenButton onClick={onClick} {...rest}>Click me!</GreenButton>
-    );
-}
