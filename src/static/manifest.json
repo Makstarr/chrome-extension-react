@@ -12,7 +12,8 @@
     "bookmarks",
     "storage",
     "identity",
-    "contextMenus"
+    "contextMenus",
+    "webRequest"
   ],
   "icons": {
     "16": "icon.png",
